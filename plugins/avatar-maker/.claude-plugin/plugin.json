@@ -1,0 +1,7 @@
+{
+  "name": "avatar-maker",
+  "version": "1.0.0",
+  "description": "Turn a photo of a person into a 3D cartoon avatar set (transparent PNGs, profile picture, talking GIF) with kie.ai.",
+  "author": { "name": "GOAT Academy" },
+  "license": "MIT"
+}

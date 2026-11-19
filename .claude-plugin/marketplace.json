@@ -1,0 +1,14 @@
+{
+  "name": "goat-academy",
+  "owner": {
+    "name": "GOAT Academy"
+  },
+  "description": "GOAT Academy plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "avatar-maker",
+      "source": "./plugins/avatar-maker",
+      "description": "Turn a photo of a person into a 3D cartoon avatar set with kie.ai."
+    }
+  ]
+}
