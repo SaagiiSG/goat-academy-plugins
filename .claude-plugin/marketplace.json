@@ -6,6 +6,11 @@
   "description": "GOAT Academy plugins for Claude Code.",
   "plugins": [
     {
+      "name": "animation-engine",
+      "source": "./plugins/animation-engine",
+      "description": "Make short vertical AI animations: voices, stills, video, lip sync and a comic-style edit."
+    },
+    {
       "name": "avatar-maker",
       "source": "./plugins/avatar-maker",
       "description": "Turn a photo of a person into a 3D cartoon avatar set with kie.ai."

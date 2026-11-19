@@ -1,0 +1,7 @@
+{
+  "name": "animation-engine",
+  "version": "1.0.0",
+  "description": "Make short vertical AI animations: story, voices (Mongolian-tuned ElevenLabs v4), stills, video and lip sync on kie.ai, then a frame-exact edit with comic graphics and captions.",
+  "author": { "name": "Saagii" },
+  "license": "MIT"
+}
